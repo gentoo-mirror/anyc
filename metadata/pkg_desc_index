@@ -1,0 +1,41 @@
+app-admin/syslog-ng 3.3.5-r2: syslog replacement with advanced filtering features
+app-emulation/multi2sim 4.1: A CPU-GPU Simulator for Heterogeneous Computing
+app-misc/anyc-meta 3: meta ebuild to select useful software
+app-misc/avahi-tray 9999: An application in the system tray that enables fast access on services announced through Avahi/MDNS
+app-misc/lcdnurse 1.0.3: Tool to fix stuck pixel in a LCD display
+app-misc/mplugd 0.1 9999: Daemon that executes event-triggered actions
+app-pda/syncevolution 1.3.2 1.3.2-r1 1.4 1.4.1: SyncEvolution synchronizes personal information management (PIM) data via various protocols
+dev-embedded/libdisasm 0.23-r100: Library for providing basic disassembly of Intel x86 instructions from a binary stream
+dev-libs/intel-beignet 0.2 0.3 0.3-r1 9999: The Beignet GPGPU System for Intel Ivybridge GPUs
+dev-libs/libpfm 4.5.0-r100: Hardware-based performance monitoring interface for Linux
+dev-libs/librapl 0.1 9999: Simplifies access to RAPL values in modern Intel CPUs
+dev-libs/nvml-fix 9999: Workaround to enable nvidia-smi for GeForce cards
+dev-libs/ocl-icd 2.1.3: Alternative to vendor specific OpenCL ICD loaders
+dev-libs/papi 5.3.0-r100: Performance Application Programming Interface
+dev-libs/tinystm 1.0.3: TinySTM is a lightweight and efficient word-based STM implementation
+dev-python/google-appengine 1.7.4 1.7.4-r1 1.7.5 1.7.5-r1: Google App Engine SDK for Python
+dev-python/python-xmp-toolkit 1.0.2: Library for working with XMP metadata stored in many different file formats
+dev-util/amd-app-sdk 2.8 2.8.1: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
+dev-util/xulrunner-sdk-bin 27.0.1: Set of XPIDL files, headers and tools to develop XPCOM components
+games-action/openspades 0.0.9 0.0.11: OpenSpades is a clone of Voxlap Ace of Spades 0.75
+games-puzzle/londonlaw 0.3.0_pre2 9999: Clone of the famous Scotland Yard board game
+games-strategy/caesaria 0 0-r1465 9999: Remake of the Caesar III strategy game
+games-strategy/openage 9999: Open source clone of the Age of Empires II engine
+games-strategy/trainsported 2 3 4 9999: Program an AI to control trains
+kde-misc/kate-cpp-helper 0.9 1.0.4: Kate C++ Helper plugin
+kde-misc/kcmsystemd 0.1.0: Kate C++ Helper plugin
+media-gfx/exiv2 0.23-r20130221: EXIF and IPTC metadata C++ library and command line utility
+media-gfx/ocrfeeder 0.8.1: Document layout analysis and optical character recognition system
+media-libs/freetype 2.4.12: A high-quality and portable font engine
+media-libs/lensfun 0.2.7: lensfun: A library for rectifying and simulating photographic lens distortions
+media-libs/libsdl2-mingw 2.0.3: Simple Direct Media Layer
+media-tv/mediathekview-bin 4: Download files from the public broadcasting services
+net-print/cque 2.0.7: Canon CQUE driver suite
+net-wireless/linssid 2.1: Graphical wireless scanning for Linux
+net-wireless/sdrsharp 0-r20130924: simple, intuitive, small and fast DSP application for SDR
+sci-mathematics/matlab 1012a: Numerical computing environment and fourth-generation programming language
+sys-devel/rr 1.0.0: Record application execution and replay with GDB
+sys-fs/bmap-tools 3.2: Create and apply sparse images of block devices
+sys-power/intel-thermald 1.04 1.2.01: Thermal daemon for Intel architectures
+sys-power/pmtools 20110323 20130209: Collection of tools for ACPI and power management
+sys-process/numatop 1.0: Tool for memory locality characterization and analysis on NUMA systems
