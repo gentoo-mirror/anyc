@@ -6,6 +6,7 @@ app-misc/lcdnurse 1.0.3: Tool to fix stuck pixel in a LCD display
 app-misc/mplugd 0.1 9999: Daemon that executes event-triggered actions
 app-pda/syncevolution 1.3.2 1.3.2-r1 1.4 1.4.1: SyncEvolution synchronizes personal information management (PIM) data via various protocols
 dev-embedded/libdisasm 0.23-r100: Library for providing basic disassembly of Intel x86 instructions from a binary stream
+dev-libs/freeocl 9999: OpenCL 1.2 implementation for CPUs
 dev-libs/intel-beignet 0.2 0.3 0.3-r1 9999: The Beignet GPGPU System for Intel Ivybridge GPUs
 dev-libs/libpfm 4.5.0-r100: Hardware-based performance monitoring interface for Linux
 dev-libs/librapl 0.1 9999: Simplifies access to RAPL values in modern Intel CPUs
