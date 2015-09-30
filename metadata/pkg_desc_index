@@ -31,6 +31,7 @@ media-libs/freetype 2.4.12: A high-quality and portable font engine
 media-libs/lensfun 0.2.7: lensfun: A library for rectifying and simulating photographic lens distortions
 media-libs/libsdl2-mingw 2.0.3: Simple Direct Media Layer
 media-tv/mediathekview-bin 4: Download files from the public broadcasting services
+net-misc/radssh 1.0.5: Pluggable & Parallel SSH Module For Massive Server Environments
 net-print/cque 2.0.7: Canon CQUE driver suite
 net-wireless/linssid 2.1: Graphical wireless scanning for Linux
 net-wireless/sdrsharp 0-r20130924: simple, intuitive, small and fast DSP application for SDR
