@@ -30,10 +30,13 @@ media-gfx/ocrfeeder 0.8.1: Document layout analysis and optical character recogn
 media-libs/freetype 2.4.12: A high-quality and portable font engine
 media-libs/lensfun 0.2.7: lensfun: A library for rectifying and simulating photographic lens distortions
 media-libs/libsdl2-mingw 2.0.3: Simple Direct Media Layer
+media-libs/mlt 0.9.8: An open source multimedia framework, designed and developed for television broadcasting
 media-tv/mediathekview-bin 4: Download files from the public broadcasting services
+media-video/avcut 9999: Frame-accurate video cutting with only small quality loss
 net-misc/radssh 1.0.5: Pluggable & Parallel SSH Module For Massive Server Environments
 net-print/cque 2.0.7: Canon CQUE driver suite
 net-wireless/linssid 2.1: Graphical wireless scanning for Linux
+net-wireless/rtl_433 9999: Decode OOK modulated signals
 net-wireless/sdrsharp 0-r20130924: simple, intuitive, small and fast DSP application for SDR
 sci-mathematics/matlab 1012a: Numerical computing environment and fourth-generation programming language
 sys-devel/rr 1.0.0: Record application execution and replay with GDB
