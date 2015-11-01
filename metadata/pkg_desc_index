@@ -34,6 +34,7 @@ media-libs/libsdl2-mingw 2.0.3: Simple Direct Media Layer
 media-libs/mlt 0.9.8: An open source multimedia framework, designed and developed for television broadcasting
 media-tv/mediathekview-bin 4: Download files from the public broadcasting services
 media-video/avcut 9999: Frame-accurate video cutting with only small quality loss
+media-video/h264bitstream 9999: read and write H.264 video bitstreams
 net-misc/radssh 1.0.5: Pluggable & Parallel SSH Module For Massive Server Environments
 net-print/cque 2.0.7: Canon CQUE driver suite
 net-wireless/linssid 2.1: Graphical wireless scanning for Linux
