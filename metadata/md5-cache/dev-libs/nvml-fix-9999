@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install postinst unpack
+DEPEND=dev-vcs/git
+DESCRIPTION=Workaround to enable nvidia-smi for GeForce cards
+EAPI=5
+HOMEPAGE=https://github.com/CFSworks/nvml_fix
+IUSE=v331.20 v325.15 v325.08 v319.32 v319.23
+KEYWORDS=~amd64 ~x86
+LICENSE=public-domain
+REQUIRED_USE=^^ ( v331.20 v325.15 v325.08 v319.32 v319.23 )
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:- src_unpack:git-2 src_compile:- src_install:-
+_eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
+_md5_=2cd4d36a036a4992cdb3cf21fece5035
