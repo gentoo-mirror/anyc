@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile configure install postinst prepare test
+DEPEND=media-libs/libsdl2[abi_x86_32] media-libs/sdl2-ttf[abi_x86_32] media-libs/speex[abi_x86_32] media-libs/fontconfig[abi_x86_32] curl? ( net-misc/curl[abi_x86_32] ) openssl? ( dev-libs/openssl[abi_x86_32] ) jansson? ( dev-libs/jansson[abi_x86_32] ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 )
+DESCRIPTION=Open source re-implementation of Roller Coaster Tycoon 2
+EAPI=6
+HOMEPAGE=https://github.com/IntelOrca/OpenRCT2
+IUSE=curl openssl jansson
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=https://github.com/OpenRCT2/OpenRCT2/archive/v0.0.3.1.tar.gz
+_eclass_exported_funcs=pkg_postinst:- src_prepare:cmake-utils src_configure:cmake-utils src_compile:cmake-utils src_test:cmake-utils src_install:cmake-utils
+_eclasses_=cmake-utils	3443785f3176b7cfdf7bd1f2c403bd9f	eutils	8982475656ba7ade9b3201397efbd612	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=b67bce933520f404a3df51e79366ab4e
