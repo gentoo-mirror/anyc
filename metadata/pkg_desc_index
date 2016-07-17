@@ -50,7 +50,7 @@ net-wireless/linssid 2.1: Graphical wireless scanning for Linux
 net-wireless/rtl_433 9999: Decode OOK modulated signals
 net-wireless/sdrsharp 0-r20130924: simple, intuitive, small and fast DSP application for SDR
 sci-mathematics/matlab 1012a: Numerical computing environment and fourth-generation programming language
-sys-apps/skiller-ctl 0.1 9999: Control the additional features of Sharkoon Skiller keyboards
+sys-apps/skiller-ctl 0.1 0.2 9999: Control the additional features of Sharkoon Skiller keyboards
 sys-devel/rr 1.0.0: Record application execution and replay with GDB
 sys-fs/bmap-tools 3.2: Create and apply sparse images of block devices
 sys-power/intel-thermald 1.04 1.2.01: Thermal daemon for Intel architectures
