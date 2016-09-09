@@ -21,6 +21,7 @@ dev-libs/tinystm 1.0.3: TinySTM is a lightweight and efficient word-based STM im
 dev-python/google-appengine 1.7.4 1.7.4-r1 1.7.5 1.7.5-r1: Google App Engine SDK for Python
 dev-python/python-axolotl 0.1.7_p1 0.1.35: Python port of libaxolotl
 dev-python/python-axolotl-curve25519 0.1_p20150217: Python wrapper for the curve25519 library
+dev-python/python-networkmanager 1.2.1: Python wrapper for Networkmanager's D-Bus API
 dev-python/python-omemo 0.0.1 0.1.0_p20160225 0.1.0_p20160402: python implementation of axolotl encryption
 dev-python/python-xmp-toolkit 1.0.2: Library for working with XMP metadata stored in many different file formats
 dev-util/amd-app-sdk 2.8 2.8.1: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
