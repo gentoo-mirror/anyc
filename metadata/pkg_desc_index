@@ -2,8 +2,10 @@ app-admin/syslog-ng 3.3.5-r2: syslog replacement with advanced filtering feature
 app-emulation/multi2sim 4.1 4.2: A CPU-GPU Simulator for Heterogeneous Computing
 app-emulation/shashlik-bin 0.9.2 0.9.3: Running Android apps on x86 Linux
 app-misc/anyc-meta 3: meta ebuild to select useful software
+app-misc/avahi-tray 9999: An application in the system tray that enables fast access on services announced through Avahi/MDNS
 app-misc/jo 0.9: Simple tool to generate JSON objects
 app-misc/lcdnurse 1.0.3: Tool to fix stuck pixel in a LCD display
+app-misc/mplugd 9999: Daemon that executes event-triggered actions
 app-misc/otrtool 1.1.1: Decode .otrkey files from onlinetvrecorder.com
 app-pda/syncevolution 1.3.2 1.3.2-r1 1.4 1.4.1: SyncEvolution synchronizes personal information management (PIM) data via various protocols
 dev-embedded/libdisasm 0.23-r100: Library for providing basic disassembly of Intel x86 instructions from a binary stream
@@ -22,6 +24,7 @@ dev-python/python-axolotl 0.1.7_p1 0.1.35: Python port of libaxolotl
 dev-python/python-axolotl-curve25519 0.1_p20150217: Python wrapper for the curve25519 library
 dev-python/python-networkmanager 1.2.1: Python wrapper for Networkmanager's D-Bus API
 dev-python/python-omemo 0.0.1 0.1.0_p20160225 0.1.0_p20160402: python implementation of axolotl encryption
+dev-python/python-xmp-toolkit 1.0.2: Library for working with XMP metadata stored in many different file formats
 dev-util/amd-app-sdk 2.8 2.8.1: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/xulrunner-sdk-bin 27.0.1: Set of XPIDL files, headers and tools to develop XPCOM components
 dev-vcs/git-repo 1.22: The multiple repository tool from Android
@@ -45,7 +48,9 @@ net-im/gajim-omemo 0.4 0.4-r1 0.5.1: Gajim plugin for XEP proposal: OMEMO Encryp
 net-misc/cangaroo 20170129: Can bus analyzer with QT5 GUI
 net-misc/radssh 1.0.5 1.0.7: Pluggable & Parallel SSH Module For Massive Server Environments
 net-print/cque 2.0.7: Canon CQUE driver suite
+net-wireless/inspectrum 20170128: a tool for analysing captured signals from software-defined radio receivers
 net-wireless/linssid 2.1: Graphical wireless scanning for Linux
+net-wireless/liquid-dsp 1.2.0_p20161107: digital signal processing library for software-defined radios
 net-wireless/rtl_433 9999: Decode OOK modulated signals
 net-wireless/sdrsharp 0-r20130924: simple, intuitive, small and fast DSP application for SDR
 sci-mathematics/matlab 1012a: Numerical computing environment and fourth-generation programming language
