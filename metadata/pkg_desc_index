@@ -27,7 +27,7 @@ dev-python/python-xmp-toolkit 1.0.2: Library for working with XMP metadata store
 dev-util/amd-app-sdk 2.8 2.8.1: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/xulrunner-sdk-bin 27.0.1: Set of XPIDL files, headers and tools to develop XPCOM components
 dev-vcs/git-repo 1.22: The multiple repository tool from Android
-games-action/openspades 0.0.9 0.0.11 0.0.12: OpenSpades is a clone of Voxlap Ace of Spades 0.75
+games-action/openspades 0.0.9 0.0.11 0.0.12 0.1.1c: OpenSpades is a clone of Voxlap Ace of Spades 0.75
 games-puzzle/londonlaw 0.3.0_pre2 9999: Clone of the famous Scotland Yard board game
 games-strategy/caesaria 0 0-r1465 9999: Remake of the Caesar III strategy game
 games-strategy/openrct2 0.0.3.1 9999: Open source re-implementation of Roller Coaster Tycoon 2
