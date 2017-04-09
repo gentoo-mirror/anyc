@@ -1,0 +1,15 @@
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=dev-libs/jansson:0 dev-libs/libzip:0 media-libs/libpng:0 media-libs/libsdl2:0 media-libs/speex:0 multiplayer? ( || ( dev-libs/openssl:0 dev-libs/libressl:0 ) ) opengl? ( virtual/opengl ) ttf? ( media-libs/fontconfig:1.0 media-libs/sdl2-ttf:0 ) twitch? ( net-misc/curl:0 ) sys-devel/make >=dev-util/cmake-3.7.2
+DESCRIPTION=Open source re-implementation of Roller Coaster Tycoon 2
+EAPI=6
+HOMEPAGE=https://openrct2.website/
+IUSE=+multiplayer +opengl +ttf +twitch
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=dev-libs/jansson:0 dev-libs/libzip:0 media-libs/libpng:0 media-libs/libsdl2:0 media-libs/speex:0 multiplayer? ( || ( dev-libs/openssl:0 dev-libs/libressl:0 ) ) opengl? ( virtual/opengl ) ttf? ( media-libs/fontconfig:1.0 media-libs/sdl2-ttf:0 ) twitch? ( net-misc/curl:0 )
+REQUIRED_USE=multiplayer? ( twitch )
+SLOT=0
+SRC_URI=https://github.com/OpenRCT2/OpenRCT2/archive/v0.0.6.tar.gz -> openrct2-0.0.6.tar.gz https://github.com/OpenRCT2/title-sequences/releases/download/v0.0.5/title-sequence-v0.0.5.zip -> openrct2-title-sequences-0.0.5.zip
+_eclass_exported_funcs=src_prepare:- src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:-
+_eclasses_=cmake-utils	a69f3a404abc4ade0a99e523f51b989d	epatch	8233751dc5105a6ae8fcd86ce2bb0247	epunt-cxx	f8073339d152f56626493f43d8ba4691	estack	5ac2a138d0b33354b764d84f9e835db8	eutils	e7491451996e8b54c3caeb713285b0fb	flag-o-matic	61cad4fb5d800b29d484b27cb033f59b	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	0236be304ee52e7f179ed2f337075515	multiprocessing	284a473719153462f3e974d86c8cb81c	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	versionator	c80ccf29e90adea7c5cae94b42eb76d0
+_md5_=549c91750b1b43a66a1d86393db4226d
