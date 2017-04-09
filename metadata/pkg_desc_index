@@ -30,7 +30,7 @@ dev-vcs/git-repo 1.22: The multiple repository tool from Android
 games-action/openspades 0.0.9 0.0.11 0.0.12 0.1.1c: OpenSpades is a clone of Voxlap Ace of Spades 0.75
 games-puzzle/londonlaw 0.3.0_pre2 9999: Clone of the famous Scotland Yard board game
 games-strategy/caesaria 0 0-r1465 9999: Remake of the Caesar III strategy game
-games-strategy/openrct2 0.0.3.1 0.0.6 9999: Open source re-implementation of Roller Coaster Tycoon 2
+games-strategy/openrct2 0.0.3.1 0.0.6: Open source re-implementation of Roller Coaster Tycoon 2
 games-strategy/trainsported 2 3 4 9999: Program an AI to control trains
 kde-misc/kate-cpp-helper 0.9 1.0.4: Kate C++ Helper plugin
 kde-misc/kcmsystemd 0.1.0: Kate C++ Helper plugin
