@@ -8,5 +8,5 @@ LICENSE=GPL-3
 RDEPEND=>=dev-libs/libusb-1.0.0
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3
-_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
+_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769
 _md5_=1ce03fde8abd54f1d881977ce4412493
