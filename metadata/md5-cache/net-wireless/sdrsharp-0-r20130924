@@ -8,5 +8,5 @@ LICENSE=MIT MS-RSL
 RDEPEND=dev-lang/mono media-libs/portaudio net-wireless/rtl-sdr
 RESTRICT=mirror bindist
 SLOT=0
-_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc	user	e4b567c44272a719fabf53f0f885d3f7
+_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc	user	8bc2845510e2109af75e3eeac607ec81
 _md5_=6ee1e5611c0b89a274f1dabae6e59999
