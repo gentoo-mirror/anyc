@@ -8,7 +8,7 @@ inherit cmake-utils
 
 DESCRIPTION="a tool for analysing captured signals from software-defined radio receivers"
 HOMEPAGE="https://github.com/miek/inspectrum"
-SRC_URI="https://github.com/miek/inspectrum/archive/fc9acfe376e797b72458304a110dc7369f88ca75.tar.gz -> ${P}.tar.gz"
+SRC_URI="https://github.com/miek/inspectrum/archive/5f0b7c2d38df4350e23c6842c842f970763258f1.tar.gz -> ${P}.tar.gz"
 KEYWORDS="~amd64 ~x86"
 
 LICENSE="GPL-3+"
@@ -22,7 +22,7 @@ RDEPEND="sci-libs/fftw:3.0=
 	dev-qt/qtcore:5
 	dev-qt/qtconcurrent:5
 	net-wireless/gnuradio:=
-	|| ( net-wireless/liquid-dsp net-libs/liquid-dsp )"
+	net-wireless/liquid-dsp"
 DEPEND="virtual/pkgconfig
 	${RDEPEND}"
 
