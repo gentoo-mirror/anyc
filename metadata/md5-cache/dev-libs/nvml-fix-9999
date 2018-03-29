@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=public-domain
 REQUIRED_USE=^^ ( v331.20 v325.15 v325.08 v319.32 v319.23 )
 SLOT=0
-_eclasses_=git-2	195a672bfaf52d868442171c9469bbb6
+_eclasses_=git-2	45ff482316b52b3f96ff6b7309b77f03
 _md5_=2cd4d36a036a4992cdb3cf21fece5035
