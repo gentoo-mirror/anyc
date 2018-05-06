@@ -1,0 +1,10 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=dev-vcs/git
+DESCRIPTION=Simplifies access to RAPL values in modern Intel CPUs
+EAPI=5
+HOMEPAGE=http://github.com/anyc/librapl
+IUSE=tools
+LICENSE=GPL-2
+SLOT=0
+_eclasses_=git-2	45ff482316b52b3f96ff6b7309b77f03
+_md5_=ecfb920475a30206eab47693ac861a3a
