@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=sys-fs/e2fsprogs btrfs? ( sys-fs/btrfs-progs ) fat? ( sys-fs/dosfstools ) ntfs? ( sys-fs/ntfs3g ) hfs? ( sys-fs/hfsutils ) jfs? ( sys-fs/jfsutils ) reiserfs? ( sys-fs/progsreiserfs ) reiser4? ( sys-fs/reiser4progs ) xfs? ( >=sys-fs/xfsprogs-3.1.11-r1 ) nilfs2? ( >=sys-fs/nilfs-utils-2.1.5-r1 ) f2fs? ( >=sys-libs/e2fsprogs-libs-1.42.13 ) static? ( sys-fs/e2fsprogs[static-libs] sys-libs/e2fsprogs-libs[static-libs] sys-fs/xfsprogs[static-libs] sys-libs/ncurses[static-libs] sys-fs/ntfs3g[static-libs] )
 SLOT=0
 SRC_URI=https://github.com/Thomas-Tsai/partclone/archive/0.3.11.tar.gz -> partclone-0.3.11.tar.gz
-_eclasses_=autotools	d0e5375d47f4c809f406eb892e531513	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	fa02994d0beba88681127d93da4411ec
+_eclasses_=autotools	d0e5375d47f4c809f406eb892e531513	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607
 _md5_=9731e160243eab30b12f0d02c370656b
