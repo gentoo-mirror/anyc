@@ -1,5 +1,5 @@
 DEFINED_PHASES=unpack
-DEPEND=>=dev-libs/libusb-1.0.0 >=dev-vcs/git-1.8.2.1
+DEPEND=>=dev-libs/libusb-1.0.0 >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Control the additional features of Sharkoon Skiller keyboards
 EAPI=6
 HOMEPAGE=https://github.com/anyc/skiller-ctl/
@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=>=dev-libs/libusb-1.0.0
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=1ce03fde8abd54f1d881977ce4412493
