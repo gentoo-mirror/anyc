@@ -1,2 +1,1 @@
-app-misc/anyc-meta 3: meta ebuild to select useful software
 dev-libs/jansson 2.7: C library for encoding, decoding and manipulating JSON data
