@@ -5,7 +5,8 @@ EAPI=6
 HOMEPAGE=https://github.com/anyc/skiller-ctl/
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
+PROPERTIES=live
 RDEPEND=>=dev-libs/libusb-1.0.0
 SLOT=0
-_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1
 _md5_=1ce03fde8abd54f1d881977ce4412493
