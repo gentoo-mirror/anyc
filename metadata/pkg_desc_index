@@ -1,1 +1,65 @@
+app-emulation/multi2sim 4.1 4.2: A CPU-GPU Simulator for Heterogeneous Computing
+app-misc/anyc-meta 3: meta ebuild to select useful software
+app-misc/avahi-tray 9999: An application in the system tray that enables fast access on services announced through Avahi/MDNS
+app-misc/ddccontrol 0.4.4: DDCControl allows control of monitor parameters via DDC
+app-misc/ddccontrol-db 20180602: DDCControl monitor database
+app-misc/jo 0.9: Simple tool to generate JSON objects
+app-misc/lcdnurse 1.0.3: Tool to fix stuck pixel in a LCD display
+app-misc/mplugd 9999: Daemon that executes event-triggered actions
+app-misc/otrtool 1.1.1: Decode .otrkey files from onlinetvrecorder.com
+app-pda/syncevolution 1.3.2 1.3.2-r1 1.4 1.4.1: SyncEvolution synchronizes personal information management (PIM) data via various protocols
+dev-embedded/imx-usb-loader 20171005: Usb loader for imx51/53/6x
+dev-embedded/jlink 6.20h: Tools for Segger J-Link JTAG adapters
+dev-embedded/libdisasm 0.23-r100: Library for providing basic disassembly of Intel x86 instructions from a binary stream
+dev-embedded/mfgtool 20170920: NXP i.MX Chip image deploy tools
+dev-embedded/mkbootimg 20161201: Tool to create and unpack Android boot.img files
+dev-libs/freeocl 9999: OpenCL 1.2 implementation for CPUs
+dev-libs/intel-beignet 0.2 0.3 0.3-r1 9999: The Beignet GPGPU System for Intel Ivybridge GPUs
 dev-libs/jansson 2.7: C library for encoding, decoding and manipulating JSON data
+dev-libs/libpfm 4.5.0-r100: Hardware-based performance monitoring interface for Linux
+dev-libs/librapl 0.1 9999: Simplifies access to RAPL values in modern Intel CPUs
+dev-libs/nvml-fix 9999: Workaround to enable nvidia-smi for GeForce cards
+dev-libs/ocl-icd 2.1.3: Alternative to vendor specific OpenCL ICD loaders
+dev-libs/papi 5.3.0-r100: Performance Application Programming Interface
+dev-libs/tinystm 1.0.3: TinySTM is a lightweight and efficient word-based STM implementation
+dev-python/gatt-python 2.6.7: Bluetooth GATT SDK for Python
+dev-python/lupa 1.6: Lua in python
+dev-python/python-axolotl 0.1.7_p1 0.1.35: Python port of libaxolotl
+dev-python/python-axolotl-curve25519 0.1_p20150217: Python wrapper for the curve25519 library
+dev-python/python-networkmanager 1.2.1: Python wrapper for Networkmanager's D-Bus API
+dev-python/python-omemo 0.0.1 0.1.0_p20160225 0.1.0_p20160402: python implementation of axolotl encryption
+dev-python/python-xmp-toolkit 1.0.2: Library for working with XMP metadata stored in many different file formats
+dev-python/remi 2018.11.27: GUI library which exports HTML with a builtin webserver
+dev-util/amd-app-sdk 2.8 2.8.1: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
+dev-util/xulrunner-sdk-bin 27.0.1: Set of XPIDL files, headers and tools to develop XPCOM components
+dev-vcs/git-repo 1.22: The multiple repository tool from Android
+games-action/openspades 0.0.9 0.0.11 0.0.12 0.1.1c: OpenSpades is a clone of Voxlap Ace of Spades 0.75
+games-puzzle/londonlaw 0.3.0_pre2 9999: Clone of the famous Scotland Yard board game
+games-sports/dustrac 2.0.1-r1: Top-down car racing game
+games-strategy/caesaria 0 0-r1465 9999: Remake of the Caesar III strategy game
+games-strategy/openrct2 0.0.3.1 0.0.6: Open source re-implementation of Roller Coaster Tycoon 2
+games-strategy/trainsported 2 3 4 9999: Program an AI to control trains
+media-libs/freetype 2.4.12: A high-quality and portable font engine
+media-libs/lensfun 0.2.7: lensfun: A library for rectifying and simulating photographic lens distortions
+media-libs/libsdl2-mingw 2.0.3: Simple Direct Media Layer
+media-tv/mediathekview-bin 4: Download files from the public broadcasting services
+media-video/avcut 0.1 0.2 9999: Frame-accurate video cutting with only small quality loss
+media-video/h264bitstream 9999: read and write H.264 video bitstreams
+net-im/gajim-omemo 0.4 0.4-r1 0.5.1: Gajim plugin for XEP proposal: OMEMO Encryption
+net-libs/libexosip2 5.0.0: library to use the SIP protocol for multimedia session establishement
+net-libs/libosip2 5.0.0: a simple way to support the Session Initiation Protocol
+net-misc/cangaroo 20170129: Can bus analyzer with QT5 GUI
+net-misc/radssh 1.0.5 1.0.7: Pluggable & Parallel SSH Module For Massive Server Environments
+net-print/cque 2.0.7: Canon CQUE driver suite
+net-wireless/inspectrum 20170128 20170430: a tool for analysing captured signals from software-defined radio receivers
+net-wireless/liquid-dsp 1.2.0_p20161107: digital signal processing library for software-defined radios
+net-wireless/rtl_433 9999: Decode OOK modulated signals
+net-wireless/sdrsharp 0-r20130924: simple, intuitive, small and fast DSP application for SDR
+sci-mathematics/matlab 1012a: Numerical computing environment and fourth-generation programming language
+sys-apps/skiller-ctl 0.1 0.2 9999: Control the additional features of Sharkoon Skiller keyboards
+sys-block/partclone 0.3.11: Partition cloning tool
+sys-devel/rr 1.0.0: Record application execution and replay with GDB
+sys-fs/bmap-tools 3.2: Create and apply sparse images of block devices
+sys-power/intel-thermald 1.04 1.2.01: Thermal daemon for Intel architectures
+sys-power/pmtools 20110323 20130209: Collection of tools for ACPI and power management
+sys-process/numatop 1.0: Tool for memory locality characterization and analysis on NUMA systems
