@@ -7,5 +7,5 @@ IUSE=mkbootimg
 KEYWORDS=~amd64 ~x86
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1
+_eclasses_=git-r3	6d22636df236df4cc8475f7b7668bdcd
 _md5_=bd6e1ea29016ee3c6aebe4e2772bfb0f

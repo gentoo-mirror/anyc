@@ -9,5 +9,5 @@ PROPERTIES=live
 RDEPEND=dev-lang/mono media-libs/portaudio net-wireless/rtl-sdr
 RESTRICT=mirror bindist
 SLOT=0
-_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1	user	00484e1be1aac73e24fca1c99557a7d6
+_eclasses_=git-r3	6d22636df236df4cc8475f7b7668bdcd	user	00484e1be1aac73e24fca1c99557a7d6
 _md5_=6ee1e5611c0b89a274f1dabae6e59999
