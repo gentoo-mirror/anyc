@@ -1,9 +1,11 @@
 app-emulation/multi2sim 4.1 4.2: A CPU-GPU Simulator for Heterogeneous Computing
 app-misc/anyc-meta 3: meta ebuild to select useful software
+app-misc/avahi-tray 9999: An application in the system tray that enables fast access on services announced through Avahi/MDNS
 app-misc/ddccontrol 0.4.4: DDCControl allows control of monitor parameters via DDC
 app-misc/ddccontrol-db 20180602: DDCControl monitor database
 app-misc/ddcui 0.1.0: Graphical user interface for ddcutil
 app-misc/jo 0.9: Simple tool to generate JSON objects
+app-misc/mplugd 9999: Daemon that executes event-triggered actions
 app-misc/otrtool 1.1.1: Decode .otrkey files from onlinetvrecorder.com
 app-misc/usb-creator 0.3.7: Create a startup disk using a CD or disc image
 app-pda/syncevolution 1.3.2 1.3.2-r1 1.4 1.4.1: SyncEvolution synchronizes personal information management (PIM) data via various protocols
@@ -16,6 +18,7 @@ dev-libs/freeocl 9999: OpenCL 1.2 implementation for CPUs
 dev-libs/jansson 2.7: C library for encoding, decoding and manipulating JSON data
 dev-libs/libpfm 4.5.0-r100: Hardware-based performance monitoring interface for Linux
 dev-libs/librapl 0.1 9999: Simplifies access to RAPL values in modern Intel CPUs
+dev-libs/nvml-fix 9999: Workaround to enable nvidia-smi for GeForce cards
 dev-libs/ocl-icd 2.1.3: Alternative to vendor specific OpenCL ICD loaders
 dev-libs/papi 5.3.0-r100: Performance Application Programming Interface
 dev-libs/tinystm 1.0.3: TinySTM is a lightweight and efficient word-based STM implementation
