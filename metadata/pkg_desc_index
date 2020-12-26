@@ -49,7 +49,6 @@ media-video/h264bitstream 9999: read and write H.264 video bitstreams
 net-im/gajim-omemo 0.4 0.4-r1 0.5.1: Gajim plugin for XEP proposal: OMEMO Encryption
 net-libs/libexosip2 5.0.0 5.2.0: library to use the SIP protocol for multimedia session establishement
 net-libs/libosip2 5.0.0 5.2.0: a simple way to support the Session Initiation Protocol
-net-misc/cangaroo 20170129: Can bus analyzer with QT5 GUI
 net-misc/radssh 1.0.5 1.0.7: Pluggable & Parallel SSH Module For Massive Server Environments
 net-print/cque 2.0.7: Canon CQUE driver suite
 net-wireless/inspectrum 20170128 20170430: a tool for analysing captured signals from software-defined radio receivers
