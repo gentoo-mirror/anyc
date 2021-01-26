@@ -37,7 +37,7 @@ games-puzzle/londonlaw 0.3.0_pre2 9999: Clone of the famous Scotland Yard board 
 games-simulation/openrct2 0.2.4: An open source re-implementation of RollerCoaster Tycoon 2
 games-sports/dustrac 2.0.1-r1: Top-down car racing game
 games-strategy/caesaria 0 0-r1465 9999: Remake of the Caesar III strategy game
-games-strategy/mindustry 5.0.100: Sandbox tower defense game
+games-strategy/mindustry 5.0.100 6.0.122.1: Sandbox tower defense game
 games-strategy/trainsported 2 3 4 9999: Program an AI to control trains
 media-libs/freetype 2.4.12: A high-quality and portable font engine
 media-libs/lensfun 0.2.7: lensfun: A library for rectifying and simulating photographic lens distortions
