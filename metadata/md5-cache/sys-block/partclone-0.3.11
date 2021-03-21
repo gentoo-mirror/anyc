@@ -3,11 +3,12 @@ DEPEND=>=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.2-r1:1.
 DESCRIPTION=Partition cloning tool
 EAPI=5
 HOMEPAGE=http://partclone.org
+INHERIT=autotools
 IUSE=btrfs reiserfs reiser4 hfs fat minix ntfs jfs static vmfs xfs f2fs nilfs2
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=sys-fs/e2fsprogs btrfs? ( sys-fs/btrfs-progs ) fat? ( sys-fs/dosfstools ) ntfs? ( sys-fs/ntfs3g ) hfs? ( sys-fs/hfsutils ) jfs? ( sys-fs/jfsutils ) reiserfs? ( sys-fs/progsreiserfs ) reiser4? ( sys-fs/reiser4progs ) xfs? ( >=sys-fs/xfsprogs-3.1.11-r1 ) nilfs2? ( >=sys-fs/nilfs-utils-2.1.5-r1 ) f2fs? ( >=sys-libs/e2fsprogs-libs-1.42.13 ) static? ( sys-fs/e2fsprogs[static-libs] sys-libs/e2fsprogs-libs[static-libs] sys-fs/xfsprogs[static-libs] sys-libs/ncurses[static-libs] sys-fs/ntfs3g[static-libs] )
 SLOT=0
 SRC_URI=https://github.com/Thomas-Tsai/partclone/archive/0.3.11.tar.gz -> partclone-0.3.11.tar.gz
-_eclasses_=autotools	9988ecbe04129214297a7bbf3d253710	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	libtool	f143db5a74ccd9ca28c1234deffede96	autotools	4ba6c345bf49883c84d5fa5c9bf40c0b
 _md5_=9731e160243eab30b12f0d02c370656b
