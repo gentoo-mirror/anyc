@@ -3,6 +3,7 @@ DEPEND=>=net-libs/libosip2-5.0.0:= ssl? ( libressl? ( dev-libs/libressl:0= ) !li
 DESCRIPTION=library to use the SIP protocol for multimedia session establishement
 EAPI=6
 HOMEPAGE=https://savannah.nongnu.org/projects/exosip/
+INHERIT=versionator
 IUSE=libressl +srv ssl
 KEYWORDS=~amd64 ~ppc ~x86 ~ppc-macos ~x86-macos
 LICENSE=GPL-2

@@ -2,6 +2,7 @@ DEFINED_PHASES=install postinst setup
 DESCRIPTION=Tools for Segger J-Link JTAG adapters
 EAPI=5
 HOMEPAGE=http://www.segger.com/jlink-software.html
+INHERIT=versionator
 KEYWORDS=~x86 ~amd64
 LICENSE=J-Link Terms of Use
 RDEPEND=dev-libs/libedit
