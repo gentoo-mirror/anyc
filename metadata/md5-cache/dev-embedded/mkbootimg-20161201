@@ -3,9 +3,10 @@ DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Tool to create and unpack Android boot.img files
 EAPI=6
 HOMEPAGE=https://github.com/osm0sis/mkbootimg
+INHERIT=git-r3
 IUSE=mkbootimg
 KEYWORDS=~amd64 ~x86
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=bd6e1ea29016ee3c6aebe4e2772bfb0f

@@ -3,11 +3,12 @@ DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Workaround to enable nvidia-smi for GeForce cards
 EAPI=5
 HOMEPAGE=https://github.com/CFSworks/nvml_fix
+INHERIT=git-r3
 IUSE=v331.20 v325.15 v325.08 v319.32 v319.23
 KEYWORDS=~amd64 ~x86
 LICENSE=public-domain
 PROPERTIES=live
 REQUIRED_USE=^^ ( v331.20 v325.15 v325.08 v319.32 v319.23 )
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=acf72301ba02372a1743205fb1fc8e94

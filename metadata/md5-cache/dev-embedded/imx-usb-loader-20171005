@@ -3,10 +3,11 @@ DEPEND=virtual/libusb:1 >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Usb loader for imx51/53/6x
 EAPI=6
 HOMEPAGE=https://github.com/boundarydevices/imx_usb_loader
+INHERIT=git-r3
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=virtual/libusb:1
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=85b5291c85a5d54b14c75328d4206961
