@@ -22,9 +22,7 @@ dev-util/xulrunner-sdk-bin 27.0.1: Set of XPIDL files, headers and tools to deve
 games-action/openspades 0.0.9 0.0.11 0.0.12 0.1.1c: OpenSpades is a clone of Voxlap Ace of Spades 0.75
 games-simulation/openrct2 0.2.4: An open source re-implementation of RollerCoaster Tycoon 2
 games-sports/dustrac 2.0.1-r1: Top-down car racing game
-games-strategy/caesaria 0 0-r1465 9999: Remake of the Caesar III strategy game
 games-strategy/mindustry 5.0.100 6.0.122.1: Sandbox tower defense game
-games-strategy/trainsported 2 3 4 9999: Program an AI to control trains
 media-libs/lensfun 0.2.7: lensfun: A library for rectifying and simulating photographic lens distortions
 media-libs/libsdl2-mingw 2.0.3: Simple Direct Media Layer
 media-tv/mediathekview-bin 4: Download files from the public broadcasting services
