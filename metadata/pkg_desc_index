@@ -25,7 +25,6 @@ games-sports/dustrac 2.0.1-r1: Top-down car racing game
 games-strategy/mindustry 5.0.100 6.0.122.1: Sandbox tower defense game
 media-libs/lensfun 0.2.7: lensfun: A library for rectifying and simulating photographic lens distortions
 media-libs/libsdl2-mingw 2.0.3: Simple Direct Media Layer
-media-tv/mediathekview-bin 4: Download files from the public broadcasting services
 media-video/avcut 0.1 0.2 9999: Frame-accurate video cutting with only small quality loss
 media-video/h264bitstream 9999: read and write H.264 video bitstreams
 net-libs/libexosip2 5.0.0 5.2.0: library to use the SIP protocol for multimedia session establishement
@@ -35,7 +34,6 @@ net-wireless/inspectrum 20170128 20170430: a tool for analysing captured signals
 net-wireless/rtl_433 9999: Decode OOK modulated signals
 net-wireless/sdrsharp 0-r20130924: simple, intuitive, small and fast DSP application for SDR
 sci-electronics/smuview 9999: Source measure unit GUI for sigrok
-sci-mathematics/matlab 1012a: Numerical computing environment and fourth-generation programming language
 sys-apps/skiller-ctl 0.1 0.2 9999: Control the additional features of Sharkoon Skiller keyboards
 sys-block/partclone 0.3.11: Partition cloning tool
 sys-devel/rr 1.0.0: Record application execution and replay with GDB
