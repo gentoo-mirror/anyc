@@ -10,5 +10,5 @@ LICENSE=public-domain
 PROPERTIES=live
 REQUIRED_USE=^^ ( v331.20 v325.15 v325.08 v319.32 v319.23 )
 SLOT=0
-_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
 _md5_=acf72301ba02372a1743205fb1fc8e94
