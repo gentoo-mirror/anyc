@@ -29,7 +29,6 @@ net-libs/libosip2 5.0.0 5.2.0: a simple way to support the Session Initiation Pr
 net-print/cque 2.0.7: Canon CQUE driver suite
 net-wireless/inspectrum 20170128 20170430: a tool for analysing captured signals from software-defined radio receivers
 net-wireless/rtl_433 9999: Decode OOK modulated signals
-net-wireless/sdrsharp 0-r20130924: simple, intuitive, small and fast DSP application for SDR
 sci-electronics/smuview 9999: Source measure unit GUI for sigrok
 sys-apps/skiller-ctl 0.1 0.2 9999: Control the additional features of Sharkoon Skiller keyboards
 sys-block/partclone 0.3.11: Partition cloning tool
