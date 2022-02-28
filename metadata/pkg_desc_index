@@ -10,7 +10,6 @@ dev-embedded/imx-usb-loader 20171005: Usb loader for imx51/53/6x
 dev-embedded/jlink 6.20h: Tools for Segger J-Link JTAG adapters
 dev-embedded/mfgtool 20170920: NXP i.MX Chip image deploy tools
 dev-embedded/mkbootimg 20161201: Tool to create and unpack Android boot.img files
-dev-libs/freeocl 9999: OpenCL 1.2 implementation for CPUs
 dev-libs/librapl 0.1 9999: Simplifies access to RAPL values in modern Intel CPUs
 dev-libs/nvml-fix 9999: Workaround to enable nvidia-smi for GeForce cards
 dev-libs/ocl-icd 2.1.3: Alternative to vendor specific OpenCL ICD loaders
