@@ -1,37 +1,20 @@
 app-emulation/multi2sim 4.1 4.2: A CPU-GPU Simulator for Heterogeneous Computing
 app-misc/anyc-meta 3: meta ebuild to select useful software
 app-misc/ddccontrol 0.4.4: DDCControl allows control of monitor parameters via DDC
-app-misc/ddccontrol-db 20180602: DDCControl monitor database
 app-misc/ddcui 0.1.0: Graphical user interface for ddcutil
 app-misc/jo 0.9: Simple tool to generate JSON objects
 app-misc/otrtool 1.1.1: Decode .otrkey files from onlinetvrecorder.com
-app-pda/syncevolution 1.3.2 1.3.2-r1 1.4 1.4.1: SyncEvolution synchronizes personal information management (PIM) data via various protocols
 dev-embedded/imx-usb-loader 20171005: Usb loader for imx51/53/6x
 dev-embedded/jlink 6.20h: Tools for Segger J-Link JTAG adapters
-dev-embedded/mfgtool 20170920: NXP i.MX Chip image deploy tools
 dev-embedded/mkbootimg 20161201: Tool to create and unpack Android boot.img files
 dev-libs/librapl 0.1 9999: Simplifies access to RAPL values in modern Intel CPUs
 dev-libs/nvml-fix 9999: Workaround to enable nvidia-smi for GeForce cards
-dev-libs/ocl-icd 2.1.3: Alternative to vendor specific OpenCL ICD loaders
-dev-libs/tinystm 1.0.3: TinySTM is a lightweight and efficient word-based STM implementation
 dev-python/lupa 1.8 1.9: Lua in python
-dev-util/amd-app-sdk 2.8 2.8.1: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
-games-action/openspades 0.0.9 0.0.11 0.0.12 0.1.1c: OpenSpades is a clone of Voxlap Ace of Spades 0.75
 games-simulation/openrct2 0.2.4: An open source re-implementation of RollerCoaster Tycoon 2
 games-sports/dustrac 2.0.1-r1: Top-down car racing game
 games-strategy/mindustry 5.0.100 6.0.122.1: Sandbox tower defense game
-media-libs/lensfun 0.2.7: lensfun: A library for rectifying and simulating photographic lens distortions
 media-video/avcut 0.1 0.2 9999: Frame-accurate video cutting with only small quality loss
-media-video/h264bitstream 9999: read and write H.264 video bitstreams
 net-libs/libexosip2 5.0.0 5.2.0: library to use the SIP protocol for multimedia session establishement
 net-libs/libosip2 5.0.0 5.2.0: a simple way to support the Session Initiation Protocol
-net-print/cque 2.0.7: Canon CQUE driver suite
-net-wireless/inspectrum 20170128 20170430: a tool for analysing captured signals from software-defined radio receivers
-net-wireless/rtl_433 9999: Decode OOK modulated signals
 sci-electronics/smuview 9999: Source measure unit GUI for sigrok
 sys-apps/skiller-ctl 0.1 0.2 9999: Control the additional features of Sharkoon Skiller keyboards
-sys-block/partclone 0.3.11: Partition cloning tool
-sys-devel/rr 1.0.0: Record application execution and replay with GDB
-sys-power/intel-thermald 1.04 1.2.01: Thermal daemon for Intel architectures
-sys-power/pmtools 20110323 20130209: Collection of tools for ACPI and power management
-sys-process/numatop 1.0: Tool for memory locality characterization and analysis on NUMA systems
