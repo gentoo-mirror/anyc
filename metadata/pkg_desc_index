@@ -1,7 +1,6 @@
 app-emulation/multi2sim 4.1 4.2: A CPU-GPU Simulator for Heterogeneous Computing
 app-misc/anyc-meta 3: meta ebuild to select useful software
 app-misc/ddccontrol 0.4.4: DDCControl allows control of monitor parameters via DDC
-app-misc/ddcui 0.1.0: Graphical user interface for ddcutil
 app-misc/jo 0.9: Simple tool to generate JSON objects
 app-misc/otrtool 1.1.1: Decode .otrkey files from onlinetvrecorder.com
 dev-embedded/imx-usb-loader 20171005: Usb loader for imx51/53/6x
@@ -10,11 +9,8 @@ dev-embedded/mkbootimg 20161201: Tool to create and unpack Android boot.img file
 dev-libs/librapl 0.1 9999: Simplifies access to RAPL values in modern Intel CPUs
 dev-libs/nvml-fix 9999: Workaround to enable nvidia-smi for GeForce cards
 dev-python/lupa 1.8 1.9: Lua in python
-games-simulation/openrct2 0.2.4: An open source re-implementation of RollerCoaster Tycoon 2
-games-sports/dustrac 2.0.1-r1: Top-down car racing game
 games-strategy/mindustry 5.0.100 6.0.122.1: Sandbox tower defense game
 media-video/avcut 0.1 0.2 9999: Frame-accurate video cutting with only small quality loss
 net-libs/libexosip2 5.0.0 5.2.0: library to use the SIP protocol for multimedia session establishement
 net-libs/libosip2 5.0.0 5.2.0: a simple way to support the Session Initiation Protocol
-sci-electronics/smuview 9999: Source measure unit GUI for sigrok
 sys-apps/skiller-ctl 0.1 0.2 9999: Control the additional features of Sharkoon Skiller keyboards
