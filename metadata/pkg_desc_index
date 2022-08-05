@@ -1,6 +1,5 @@
 app-emulation/multi2sim 4.1 4.2: A CPU-GPU Simulator for Heterogeneous Computing
 app-misc/anyc-meta 3: meta ebuild to select useful software
-app-misc/ddccontrol 0.4.4: DDCControl allows control of monitor parameters via DDC
 app-misc/jo 0.9: Simple tool to generate JSON objects
 app-misc/otrtool 1.1.1: Decode .otrkey files from onlinetvrecorder.com
 dev-embedded/imx-usb-loader 20171005: Usb loader for imx51/53/6x
