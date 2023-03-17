@@ -6,7 +6,6 @@ dev-embedded/imx-usb-loader 20171005: Usb loader for imx51/53/6x
 dev-embedded/jlink 6.20h: Tools for Segger J-Link JTAG adapters
 dev-embedded/mkbootimg 20161201: Tool to create and unpack Android boot.img files
 dev-libs/librapl 0.1 9999: Simplifies access to RAPL values in modern Intel CPUs
-dev-libs/nvml-fix 9999: Workaround to enable nvidia-smi for GeForce cards
 dev-python/lupa 1.8 1.9 1.13: Lua in python
 games-strategy/mindustry 5.0.100 6.0.122.1: Sandbox tower defense game
 media-video/avcut 0.1 0.2 9999: Frame-accurate video cutting with only small quality loss
