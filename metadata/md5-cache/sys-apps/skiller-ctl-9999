@@ -9,5 +9,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=>=dev-libs/libusb-1.0.0
 SLOT=0
-_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
+_eclasses_=git-r3	27e13c09a4c7e4c78ac812f74727e676
 _md5_=1ce03fde8abd54f1d881977ce4412493
