@@ -8,5 +8,4 @@ dev-embedded/mkbootimg 20161201: Tool to create and unpack Android boot.img file
 dev-python/lupa 1.8 1.9 1.13: Lua in python
 games-strategy/mindustry 5.0.100 6.0.122.1: Sandbox tower defense game
 media-video/avcut 0.6 9999: Frame-accurate video cutting with only small quality loss
-net-libs/libexosip2 5.0.0 5.2.0: library to use the SIP protocol for multimedia session establishement
 sys-apps/skiller-ctl 0.1 0.2 9999: Control the additional features of Sharkoon Skiller keyboards
