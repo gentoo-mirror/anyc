@@ -9,5 +9,5 @@ RDEPEND=dev-libs/libedit
 RESTRICT=fetch strip
 SLOT=0
 SRC_URI=amd64? ( JLink_Linux_V620h_x86_64.tgz ) x86? ( JLink_Linux_V620h_i386.tgz )
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	versionator	d3fb3ba33acc3bbbdc4d7970227c100d
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	versionator	96e386d85551574ad7ec320ed101d6a2
 _md5_=28a035de852fc85dc09048287fcf2fe6
