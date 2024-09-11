@@ -6,4 +6,4 @@ dev-embedded/jlink 6.20h: Tools for Segger J-Link JTAG adapters
 dev-python/lupa 1.8 1.9 1.13: Lua in python
 games-strategy/mindustry 5.0.100 6.0.122.1: Sandbox tower defense game
 media-video/avcut 0.6 9999: Frame-accurate video cutting with only small quality loss
-sys-apps/skiller-ctl 0.1 0.2 9999: Control the additional features of Sharkoon Skiller keyboards
+sys-apps/skiller-ctl 0.1 0.2: Control the additional features of Sharkoon Skiller keyboards
