@@ -1,8 +1,6 @@
 app-emulation/multi2sim 4.1 4.2: A CPU-GPU Simulator for Heterogeneous Computing
 app-misc/anyc-meta 3: meta ebuild to select useful software
-app-misc/jo 0.9: Simple tool to generate JSON objects
 app-misc/otrtool 1.1.1: Decode .otrkey files from onlinetvrecorder.com
-dev-embedded/jlink 6.20h: Tools for Segger J-Link JTAG adapters
 dev-python/lupa 1.8 1.9 1.13: Lua in python
 games-strategy/mindustry 5.0.100 6.0.122.1: Sandbox tower defense game
 media-video/avcut 0.6 9999: Frame-accurate video cutting with only small quality loss
